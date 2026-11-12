@@ -1,0 +1,13 @@
+class ApiConstants {
+
+  static const String baseUrl = 'https://dummyjson.com/';
+  static const String loginEndpoint = 'auth/login';
+  static const String registerEndpoint = 'auth/register';
+  
+  // token de retorno de la api
+  
+
+
+
+
+}
