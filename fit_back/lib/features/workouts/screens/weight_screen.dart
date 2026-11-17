@@ -47,6 +47,7 @@ Widget build(BuildContext context) {
           });
         }
       },
+      child: Icon(Icons.add),
     ),
   );
 }
