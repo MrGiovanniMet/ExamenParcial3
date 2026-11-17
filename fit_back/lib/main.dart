@@ -1,4 +1,5 @@
-import 'package:fit_back/features/auth/screens/auth_check_screen.dart';
+// import 'package:fit_back/features/auth/screens/auth_check_screen.dart';
+import 'package:fit_back/features/workouts/screens/add_weight_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -17,7 +18,7 @@ class MyApp extends StatelessWidget {
       
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
       ),
-      home: const AuthCheckScreen(),
+      home: const AddWeightScreen(),
     );
   }
 }
